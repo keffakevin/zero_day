@@ -3,10 +3,10 @@
 
 ## Learning Objectives
 
-*What is a virtual machine
+* What is a virtual machine
 
-*What does “Ubuntu” mean
+* What does “Ubuntu” mean
 
-*How to use VMs with Vagrant
+* How to use VMs with Vagrant
 
-*What does the command uname do
+* What does the command uname do
